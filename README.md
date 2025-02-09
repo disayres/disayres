@@ -62,6 +62,10 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 See My Online Project On :
 <div id="Projects">
+    <div>
     <a href="https://disayres.github.io/gym/">Gym</a>
+        </div>
+    <div>
     <a href="https://disayres.github.io/Coofee-Shop/">Coffee Shop</a>
+    </div>
 </div>
