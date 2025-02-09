@@ -61,5 +61,8 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 See My Online Project On :
-[Gym Design](https://disayres.github.io/gym/)
+<div id="Projects">
+    <a href="https://disayres.github.io/gym/">Gym project</a>
+</div>
+[Gym Design]()
 [Coffee Shop](https://disayres.github.io/Coofee-Shop/)
