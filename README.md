@@ -33,7 +33,7 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap:In my free time, I read technical articles and also visit tech pages in social media.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/amir-keramat-8196b6298")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-disayres-yellow?style=flat&logo=Linkedin&logoColor=white)]("https://www.github.com/disayres")
 
 ---
 
