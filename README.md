@@ -55,7 +55,7 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap,github,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap,github,npm,vite" />
   </a>
 </p>
 
@@ -63,8 +63,8 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disayres&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=disayres)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -77,9 +77,10 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 See My Online Project On :
 <div id="Projects">
     <div>
-    <a href="https://disayres.github.io/gym/">Gym</a>
-        </div>
+        <a href="https://disayres.github.io/gym/">Gym</a>
+   </div>
+    <br />
     <div>
-    <a href="https://disayres.github.io/Coofee-Shop/">Coffee Shop</a>
+        <a href="https://disayres.github.io/Coofee-Shop/">Coffee Shop</a>
     </div>
 </div>
