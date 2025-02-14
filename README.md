@@ -21,7 +21,10 @@
       <img src="https://komarev.com/ghpvc/?username=disayres&label=PROFILE+VIEWS" />
 </div>
 <div>
-      <a href="https://wakatime.com/@018c648b-ecfa-46ce-9f5c-4c74f9345b16"><img src="https://wakatime.com/badge/user/018c648b-ecfa-46ce-9f5c-4c74f9345b16.svg" alt="Total time coded since Dec 13 2023" /></a>
+    <a href="https://wakatime.com/@018c648b-ecfa-46ce-9f5c-4c74f9345b16">
+    Coding Time: 
+        <img src="https://wakatime.com/badge/user/018c648b-ecfa-46ce-9f5c-4c74f9345b16.svg" alt="Total time coded since Dec 13 2023" />
+    </a>
 </div>
 </div>
 
