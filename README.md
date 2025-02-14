@@ -21,7 +21,7 @@
     </a>
 </div>
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
-
+<br />
 
   <div align=center">
           <span>Views : </span>
