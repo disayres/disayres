@@ -18,6 +18,7 @@
 
 
   <div align=center">
+          <span>Views : </span>
       <img src="https://komarev.com/ghpvc/?username=disayres&label=PROFILE+VIEWS" />
 </div>
 <div>
