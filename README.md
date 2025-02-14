@@ -16,6 +16,9 @@
     <a href="https://www.instagram.com/disayres">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="INS"  />
     </a>
+    <a href="https://www.linkedin.com/in/disayres/">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)" alt="Linkdin"  />
+    </a>
 </div>
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 
