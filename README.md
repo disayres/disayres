@@ -27,6 +27,7 @@
           <span>Views : </span>
       <img src="https://komarev.com/ghpvc/?username=disayres&label=PROFILE+VIEWS" />
 </div>
+<br />
 <div>
     <span>Coding Time : </span>
     <a href="https://wakatime.com/@018c648b-ecfa-46ce-9f5c-4c74f9345b16">
