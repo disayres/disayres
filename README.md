@@ -18,8 +18,10 @@
 
 
   <div align=center">
-    <img src="https://komarev.com/ghpvc/?username=disayres&label=PROFILE+VIEWS" />
-      <img src="https://wakatime.com/badge/disayres/018c648b-ecfa-46ce-9f5c-4c74f9345b16.svg" />
+      <img src="https://komarev.com/ghpvc/?username=disayres&label=PROFILE+VIEWS" />
+</div>
+<div>
+      <a href="https://wakatime.com/@018c648b-ecfa-46ce-9f5c-4c74f9345b16"><img src="https://wakatime.com/badge/user/018c648b-ecfa-46ce-9f5c-4c74f9345b16.svg" alt="Total time coded since Dec 13 2023" /></a>
 </div>
 </div>
 
@@ -50,7 +52,6 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ffflabs&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffflabs&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
