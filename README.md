@@ -25,12 +25,12 @@
       <img src="https://komarev.com/ghpvc/?username=disayres&label=PROFILE+VIEWS" />
 </div>
 <br />
-<div align="center">
+<!-- <div align="center">
     <span>Coding Time : </span>
     <a href="https://wakatime.com/@disayres">
         <img src="https://wakatime.com/badge/github/disayres/disayres.svg" alt="Total time coded since Dec 13 2023" />
     </a>
-</div>
+</div> -->
 </div>
 
 ---
