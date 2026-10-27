@@ -7,9 +7,6 @@
           <a href="https://alipapideveloper.ir">
               <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="personalwebsite"/>
           </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
-    </a>
     <a href="https://t.me/disayres">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"  />
     </a>
@@ -17,21 +14,21 @@
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="INS"  />
     </a>
     <a href="https://www.linkedin.com/in/disayres/">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Linkdin"  />
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"  />
     </a>
 </div>
   <img src="https://media4.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 <br />
 
-  <div align=center">
+  <div align="center">
           <span>Views : </span>
       <img src="https://komarev.com/ghpvc/?username=disayres&label=PROFILE+VIEWS" />
 </div>
 <br />
-<div>
+<div align="center">
     <span>Coding Time : </span>
-    <a href="https://wakatime.com/@018c648b-ecfa-46ce-9f5c-4c74f9345b16">
-        <img src="https://wakatime.com/badge/user/018c648b-ecfa-46ce-9f5c-4c74f9345b16.svg" alt="Total time coded since Dec 13 2023" />
+    <a href="https://wakatime.com/@018befc-93c9-4a84-b45a-412be1b9d05e">
+        <img src="https://wakatime.com/badge/user/018befc-93c9-4a84-b45a-412be1b9d05e.svg" alt="Total time coded since Dec 13 2023" />
     </a>
 </div>
 </div>
