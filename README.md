@@ -28,7 +28,7 @@
 <div align="center">
     <span>Coding Time : </span>
     <a href="https://wakatime.com/@disayres">
-        <img src="https://wakatime.com/badge/user/disayres.svg" alt="Total time coded since Dec 13 2023" />
+        <img src="https://wakatime.com/badge/github/disayres/disayres.svg" alt="Total time coded since Dec 13 2023" />
     </a>
 </div>
 </div>
