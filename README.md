@@ -27,8 +27,8 @@
 <br />
 <div align="center">
     <span>Coding Time : </span>
-    <a href="https://wakatime.com/@018befc-93c9-4a84-b45a-412be1b9d05e">
-        <img src="https://wakatime.com/badge/user/018befc-93c9-4a84-b45a-412be1b9d05e.svg" alt="Total time coded since Dec 13 2023" />
+    <a href="https://wakatime.com/@disayres">
+        <img src="https://wakatime.com/badge/user/disayres.svg" alt="Total time coded since Dec 13 2023" />
     </a>
 </div>
 </div>
@@ -52,7 +52,7 @@ I am a Frontend Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,bootstrap,github,npm,vite" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,vite" />
   </a>
 </p>
 
